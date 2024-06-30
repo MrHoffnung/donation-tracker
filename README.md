@@ -6,7 +6,7 @@ To use DonationTracker by yourself you have to download Poetry from [here](https
 
 ### Clone the repository on your machine 
 ```shell
-dsaads
+git clone https://github.com/MrHoffnung/donation-tracker.git
 ```
 
 ### Navigate to the clone
