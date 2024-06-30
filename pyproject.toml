@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "donationtracker"
+version = "0.1.0"
+description = "Simple tracker for One-Unit-Donations"
+authors = ["Leo Gall <leo.gall@mein.gmx>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+sv-ttk = "^2.6.0"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
